@@ -87,21 +87,21 @@ export function Mentor() {
               <div className="flex gap-[20px] mt-[10px] justify-center">
                 <a href={profile.github}>
                   <img
-                    src="./public/image/icon/github.svg"
+                    src="/image/icon/github.svg"
                     className="w-[30px] h-[30px]"
                     alt="GitHub"
                   />
                 </a>
                 <a href={profile.facebook}>
                   <img
-                    src="./public/image/icon/facebook.svg"
+                    src="/image/icon/facebook.svg"
                     className="w-[30px] h-[30px]"
                     alt="Facebook"
                   />
                 </a>
                 <a href={profile.instagram}>
                   <img
-                    src="./public/image/icon/square-instagram.svg"
+                    src="/image/icon/square-instagram.svg"
                     className="w-[30px] h-[30px]"
                     alt="Instagram"
                   />
