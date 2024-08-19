@@ -118,11 +118,11 @@ export function HomeNotLogin() {
   return (
     <div className="overflow-x-hidden">
       <div>
-        <Metadata
+      <Metadata
           title="Home | TrovKa"
-          description="Welcome to TrovKa-Service"
-          author="SainaIna"
-          keywords="services, trovka, home"
+          description="Browse all available services on TrovKa and find the perfect match for your needs."
+          author="TrovKa Team"
+          keywords="services, TrovKa, service listing"
           thumbnail="https://i.ibb.co/s6D2gFC/trovka-icon.png"
         />
       </div>

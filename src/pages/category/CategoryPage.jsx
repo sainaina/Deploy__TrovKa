@@ -6,12 +6,12 @@ export const Categories = () => {
   return (
     <>
       <Metadata
-          title="Category | TrovKa"
-          description="Explore detailed service categories on TrovKa to find exactly what you need."
-          author="SainaIna"
-          keywords="services, TrovKa, categories"
-          thumbnail="https://i.ibb.co/s6D2gFC/trovka-icon.png"
-        />
+        title="Category | TrovKa"
+        description="Explore detailed service categories on TrovKa to find exactly what you need."
+        author="TrovKa Team"
+        keywords="services, TrovKa, categories"
+        thumbnail="https://i.ibb.co/s6D2gFC/trovka-icon.png"
+      />
 
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 -mt-12">
         <div className="my-6">
@@ -21,7 +21,6 @@ export const Categories = () => {
           <Categorytype />
         </div>
       </div>
-
     </>
   );
 };

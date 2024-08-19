@@ -78,9 +78,9 @@ const LoginPage = () => {
         <Metadata
           title="Login | TrovKa"
           description="Welcome to Service-TrovKa"
-          author="SainaIna"
+          author="TrovKa Team"
           keywords="services, trovka, home"
-          thumbnail="/image/logo/Trovka-icon.png"
+          thumbnail="https://i.ibb.co/s6D2gFC/trovka-icon.png"
         />
       </div>
       <div className="flex justify-center items-center min-h-screen">

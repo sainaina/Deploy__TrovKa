@@ -71,7 +71,7 @@ export const ContactUsNew = () => {
       <Metadata
         title="Contact Us | TrovKa"
         description="Get in touch with us at TrovKa for any inquiries or support."
-        author="SainaIna"
+        author="TrovKa Team"
         keywords="services, TrovKa, contact"
         thumbnail="https://i.ibb.co/s6D2gFC/trovka-icon.png"
       />
